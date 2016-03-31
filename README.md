@@ -23,4 +23,6 @@
 * https://en.wikipedia.org/wiki/Association_rule_learning#Algorithms
 * Apriori Algorithm - https://github.com/asaini/Apriori
 * http://michael.hahsler.net/research/arules_RUG_2015/demo/
+* FP Growth (should be faster than Apriori) - https://github.com/enaeseth/python-fp-growth
+* Frequent Itemset Mining Package - http://www.borgelt.net/pyfim.html
 
